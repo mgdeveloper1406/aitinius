@@ -3,7 +3,7 @@ layout: basic.liquid
 tags: économie
 group: économie
 
-title: Crise : Le Livre unique une recommandation datant de 2012
+title: Crise : Le Livre, unique une recommandation datant de 2012
 description: Page description
 imageCover: https://www.haitilibre.com/images-a/g-37579.jpg
 imagePreview: https://www.haitilibre.com/images-a/g-37579.jpg
