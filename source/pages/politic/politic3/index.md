@@ -5,9 +5,9 @@ group: politic
 
 title: Propos déconnectés et irresponsables du Chancelier Généus à l ONU
 description: Page description
-imageCover: https://picsum.photos/seed/politic!politic3/960/640
-imagePreview: https://picsum.photos/seed/politic!politic3/640/560
-imagePreviewMini: https://picsum.photos/seed/politic!politic3/320/240
+imageCover: https://www.haitilibre.com/images-a/g-37751.jpg
+imagePreview: https://www.haitilibre.com/images-a/g-37751.jpg
+imagePreviewMini: https://www.haitilibre.com/images-a/g-37751.jpg
 pubDate: 2022-10-03 07:59:39
 keywords:
 - Politic3
