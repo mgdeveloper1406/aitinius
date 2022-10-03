@@ -16,6 +16,7 @@ keywords:
 # Économie1
 
  L’Association des Professionnels du Pétrole demande le déblocage du Terminal de Varreux
+
  Dans une notre adressée à Michel Patrick Boisvert, le Ministre de l’Économie, l’Association des professionnels du pétrole (APPE) exhorte l’État a débloquer l’accès du terminal pétrolier de Varreux pour ravitailler les stations-services, les institutions et les entreprises.
 
 L’APPE rappelle au Ministre « Les compagnies pétrolières ont importé des carburants et disposent actuellement de stocks suffisants pour ravitailler les stations-services et leurs clients industriels. Cependant le blocage du terminal de Varreux ne permet pas aux camions d'y accéder et de charger les carburants pour les distribuer »
