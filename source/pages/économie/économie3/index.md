@@ -12,8 +12,8 @@ pubDate: 2022-10-03 08:03:53
 keywords:
 - Économie3
 ---
- 
- # Économie3
+
+# Économie3
 
 Crise : Le manque de carburant menace tous les emplois du Parc Industriel de Caracol
 
