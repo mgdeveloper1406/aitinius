@@ -5,8 +5,8 @@ group: économie
 
 title: Le Centre de Facilitation des Investissements se renforce
 description: Page description
-imageCover: https://www.haitilibre.com/images-a/g-37540.jpg
-imagePreview: https://www.haitilibre.com/images-a/g-37540.jpg
+imageCover: hhttps://www.haitilibre.com/images-a/g-37540.jpg
+imagePreview: hhttps://www.haitilibre.com/images-a/g-37540.jpg 
 imagePreviewMini: hhttps://www.haitilibre.com/images-a/g-37540.jpg
 pubDate: 2022-10-03 08:04:13
 keywords:
