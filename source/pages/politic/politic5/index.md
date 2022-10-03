@@ -5,9 +5,9 @@ group: politic
 
 title: La crise en Haiti discutée de nouveau au Conseil de sécurité de l ONU
 description: Page description
-imageCover: https://picsum.photos/seed/politic!politic5/960/640
-imagePreview: https://picsum.photos/seed/politic!politic5/640/560
-imagePreviewMini: https://picsum.photos/seed/politic!politic5/320/240
+imageCover: https://www.haitilibre.com/images-a/g-37747.jpg
+imagePreview: https://www.haitilibre.com/images-a/g-37747.jpg
+imagePreviewMini: https://www.haitilibre.com/images-a/g-37747.jpg
 pubDate: 2022-10-03 08:02:21
 keywords:
 - Politic5
