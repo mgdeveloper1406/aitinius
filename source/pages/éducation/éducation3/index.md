@@ -5,9 +5,9 @@ group: éducation
 
 title: Résultats officiels du bac unique 2022 pour 8 départements
 description: Page description
-imageCover: https://picsum.photos/seed/éducation!éducation3/960/640
-imagePreview: https://picsum.photos/seed/éducation!éducation3/640/560
-imagePreviewMini: https://picsum.photos/seed/éducation!éducation3/320/240
+imageCover: https://www.haitilibre.com/images-a/g-37489.jpg
+imagePreview: https://www.haitilibre.com/images-a/g-37489.jpg
+imagePreviewMini: https://www.haitilibre.com/images-a/g-37489.jpg
 pubDate: 2022-10-03 08:07:04
 keywords:
 - Éducation3
